@@ -1,3 +1,7 @@
+#Write a function that takes in a non-empty array of
+#sorted integers and returns a new array with the square
+#of the original integers also sorted
+
 def sortedSquaredArray(array):
     i = 0
     j = len(array) - 1
